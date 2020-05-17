@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#1a5568</color>
+    <color name="colorPrimaryDark">#0f323d</color>
+    <color name="colorButton">#00B32A</color>
+    <color name="colorAccent">#000000</color>
+    <color name="resfriado">#ffcc00</color>
+    <color name="gripe">#ff6f00</color>
+    <color name="covid19">#ff0000</color>
+    <color name="background_app">#ede8e2</color>
+    <color name="colorHint">#B9FFFFFF</color>
+</resources>

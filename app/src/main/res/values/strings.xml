@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">TesteCovidApp</string>
+
+    <string name="prevencao_title">Como devo me proteger?</string>
+    <string name="prevencao_subtitle">Os cuidados são os mesmos recomendados para\n prevenção de gripe e doenças respiratórias virais:</string>
+    <string name="objetosPessoais">Não compartilhar objetos de uso pessoal, como talheres, pratos, copos ou garfos.</string>
+    <string name="lavarMaos">Higienizar as mãos sempre.</string>
+    <string name="evitarMaoNoRosto">Evitar tocar nos olhos, nariz e boca.</string>
+    <string name="evitarAglomeracao">Evitar aglomeracões.</string>
+    <string name="espirrarCorretamente">Ao tossir e espirrar, cobrir nariz e boca com lenço ou antebraço.</string>
+    <string name="desinfetarObjetos">Desinfetar objetos e superficies tocado com frequência.</string>
+    <string name="ambientesArejados">Manter os ambientes bem ventilados.</string>
+    <string name="contatoFisico">Evitar abraços, beijos, apertos de mão e contato com pessoas que apresentem sintomas</string>
+    <string name="procurarOrientacaoMedica">Em caso de sintomas, procure orientção médica.</string>
+
+    <string name="emailString">Digite seu E-mail</string>
+    <string name="senhaString">Digite sua senha</string>
+    <string name="nomeString">Digite seu nome completo</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="tituloPaginaOngs">Ajude os mais vulneráveis na crise do coronavírus</string>
+    <string name="subtituloPaginaOngs">Existem dezenas de opções para escolher e sua ajuda é muito importante para que essa rede de solidariedade se fortaleça. Não importa qual você escolher, simplesmente ajude se puder. Se você não puder ajudar financeiramente, pense na possibilidade de atuar como voluntário de alguma forma. Passe essa lista para seus amigos e familiares e os incentive a contribuir e compartilhar.</string>
+
+    <string name="tituloOng01">Hemoacre Acre (AC)</string>
+    <string name="descricaoOngs01">Em meio à crise de covid-19, o Centro de Hematologia e Hemoterapia do Acre (Hemoacre) está com o estoque vazio e precisa de doação de sangue em Rio Branco.\nSaiba mais: redome.inca.gov.br/\nComo doar: Entre em contato pelo telefone (68) 3248-1380 e agende dia e horário para a doação.</string>
+
+    <string name="tituloOng02">Manda Ver Alagoas (AL)</string>
+    <string name="descricaoOng02">ONG Amigos do Bem fundada em 1993 e responsável por ajudar 75 mil pessoas do sertão nordestino, organiza uma ação de emergência durante a pandemia do novo coronavírus com o objetivo de atender a famílias carentes de Alagoas, Ceará e Pernambuco.\nSaiba mais: amigosdobem.org/\nComo doar: amigosdobem.org/acaoemergencial/</string>
+
+    <string name="tituloOng03">Casa Migas LGBTs Amapá (AP)</string>
+    <string name="descricaoOng03">Casa de Acolhimento a LGBTs que atende, além de brasileiros, refugiados que necessitam de um lar temporário. Em tempos de pandemia a organização está aceitando doações que podem ser feitas no local, por depósito bancário ou contribuição coletiva.\nSaiba mais: vakinha.com.br/vaquinha/a-casa-miga-nao-pode-parar\nComo doar: Caixa Econômica Federal / Agência: 1457 / C/C: 00004180-0 / CNPJ: 33.156.400/0001-40 / Associação manifesta LGBT+</string>
+
+    <string name="tituloOng04">Fiocruz – Unidos contra a covid-19</string>
+    <string name="descricaoOng04">A Fiocruz está com uma campanha de arrecadação de recursos para ajudar na implementação de novos projetos e ações em combate ao coronavírus. Toda verba obtida será administrada em conta exclusiva de fundo emergencial, que dará suporte a construção de uma unidade hospitalar e na elaboração de pesquisas e cuidados a pacientes.\nSaiba mais: unidos.fiocruz.br/\nComo doar: fiocruz.colabore.org/combateacovid19/single_step\nou Banco Bradesco / Agência: 3002-3 / C/C: 19044-6 /\nFundação para o Desenvolvimento Científico e Tecnológico em Saúde / CNPJ: 02.385.669/0001-74</string>
+</resources>

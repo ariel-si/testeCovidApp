@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "737475784044",
+    "firebase_url": "https://covid-teste-app.firebaseio.com",
+    "project_id": "covid-teste-app",
+    "storage_bucket": "covid-teste-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:737475784044:android:739b9388cbd46ed9d95749",
+        "android_client_info": {
+          "package_name": "com.drommond.testecovidapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "737475784044-05rdiebstiqg2ekkp7fgu4hmeetj55rd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.drommond.testecovidapp",
+            "certificate_hash": "1622aa5d49545b0c8f8093e56045d0d8f8500439"
+          }
+        },
+        {
+          "client_id": "737475784044-l1kt0trmv3qnkqnh79qtdn5tcm2r1e0a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDDDdICr_8RQ7NM6X8dimqz7GheDXqFapQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "737475784044-l1kt0trmv3qnkqnh79qtdn5tcm2r1e0a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
