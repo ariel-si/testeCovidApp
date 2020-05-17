@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">737475784044-l1kt0trmv3qnkqnh79qtdn5tcm2r1e0a.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://covid-teste-app.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">737475784044</string>
+    <string name="google_api_key" translatable="false">AIzaSyDDDdICr_8RQ7NM6X8dimqz7GheDXqFapQ</string>
+    <string name="google_app_id" translatable="false">1:737475784044:android:739b9388cbd46ed9d95749</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyDDDdICr_8RQ7NM6X8dimqz7GheDXqFapQ</string>
+    <string name="google_storage_bucket" translatable="false">covid-teste-app.appspot.com</string>
+    <string name="project_id" translatable="false">covid-teste-app</string>
+</resources>
