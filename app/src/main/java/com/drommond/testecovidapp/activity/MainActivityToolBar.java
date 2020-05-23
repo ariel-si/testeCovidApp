@@ -5,6 +5,7 @@ import androidx.appcompat.app.AppCompatActivity;
 import androidx.appcompat.widget.Toolbar;
 import androidx.viewpager.widget.ViewPager;
 
+import android.content.Intent;
 import android.os.Bundle;
 import android.view.Menu;
 import android.view.MenuInflater;
@@ -14,7 +15,7 @@ import com.drommond.testecovidapp.R;
 import com.drommond.testecovidapp.configs.ConfiguracaoFirebase;
 import com.drommond.testecovidapp.fragments.InformacaoFragment;
 import com.drommond.testecovidapp.fragments.ListaOngsFragment;
-import com.drommond.testecovidapp.fragments.StatusFragment;
+import com.drommond.testecovidapp.fragments.TesteFragment;
 import com.google.firebase.auth.FirebaseAuth;
 import com.ogaclejapan.smarttablayout.SmartTabLayout;
 import com.ogaclejapan.smarttablayout.utils.v4.FragmentPagerItemAdapter;
@@ -38,7 +39,7 @@ public class MainActivityToolBar extends AppCompatActivity {
         FragmentPagerItemAdapter adapter = new FragmentPagerItemAdapter(
                 getSupportFragmentManager(), FragmentPagerItems.with(this)
                 .add("cuide-se", InformacaoFragment.class)
-                .add("Teste", StatusFragment.class)
+                .add("Teste", TesteFragment.class)
                 .add("ajude", ListaOngsFragment.class)
                 .create());
 
@@ -62,7 +63,12 @@ public class MainActivityToolBar extends AppCompatActivity {
     @Override
     public boolean onOptionsItemSelected(@NonNull MenuItem item) {
         switch (item.getItemId()){
-            case R.id.menuSair : deslogarUsuario();finish();
+            case R.id.menuSair :
+                deslogarUsuario();
+                finish();
+            break;
+            case R.id.menuCreditos :
+                telaCreditos();
             break;
         }
         return super.onOptionsItemSelected(item);
@@ -74,6 +80,10 @@ public class MainActivityToolBar extends AppCompatActivity {
         }catch (Exception e){
             e.printStackTrace();
         }
+    }
+    private void telaCreditos(){
+        Intent intent = new Intent(MainActivityToolBar.this, CreditosActivity.class);
+        startActivity(intent);
     }
 
 }

@@ -1,8 +1,10 @@
-package com.drommond.testecovidapp;
+package com.drommond.testecovidapp.activity;
 
 import androidx.appcompat.app.AppCompatActivity;
 
 import android.os.Bundle;
+
+import com.drommond.testecovidapp.R;
 
 public class CreditosActivity extends AppCompatActivity {
 

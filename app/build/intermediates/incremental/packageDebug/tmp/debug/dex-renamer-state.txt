@@ -1,4 +1,4 @@
-#Sun May 17 14:11:56 BRT 2020
+#Wed May 20 16:45:34 BRT 2020
 base.0=E\:\\Projetos\\TesteCovidApp\\app\\build\\intermediates\\dex\\debug\\out\\classes.dex
 path.0=classes.dex
 renamed.0=classes.dex

@@ -33,11 +33,8 @@ public class LoginActivity extends AppCompatActivity {
 
         campoUsuario = findViewById(R.id.editLoginUsuario);
         campoSenha = findViewById(R.id.editLoginSenha);
-
     }
-
     public void logarUsuario(Usuario usuario){
-
         auth.signInWithEmailAndPassword(usuario.getEmail(), usuario.getSenha()).addOnCompleteListener(new OnCompleteListener<AuthResult>() {
             @Override
             public void onComplete(@NonNull Task<AuthResult> task) {
@@ -61,7 +58,6 @@ public class LoginActivity extends AppCompatActivity {
                 }
             }
         });
-
     }
 
     @Override

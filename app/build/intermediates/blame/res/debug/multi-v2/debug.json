@@ -1630,22 +1630,6 @@
             ]
         },
         {
-            "outputFile": "E:\\Projetos\\TesteCovidApp\\app\\build\\intermediates\\res\\merged\\debug\\values-hdpi-v4_values-hdpi-v4.arsc.flat",
-            "map": [
-                {
-                    "source": "C:\\Users\\pc-gamr\\.gradle\\caches\\transforms-2\\files-2.1\\6c5a1a33c151bf1b1b969a4997bc8337\\appcompat-1.1.0\\res\\values-hdpi-v4\\values-hdpi-v4.xml",
-                    "from": {
-                        "startLines": "2",
-                        "startColumns": "4",
-                        "startOffsets": "55",
-                        "endLines": "6",
-                        "endColumns": "13",
-                        "endOffsets": "327"
-                    }
-                }
-            ]
-        },
-        {
             "outputFile": "E:\\Projetos\\TesteCovidApp\\app\\build\\intermediates\\res\\merged\\debug\\values-mk_values-mk.arsc.flat",
             "map": [
                 {
@@ -1714,6 +1698,22 @@
                         "startOffsets": "3997",
                         "endColumns": "195",
                         "endOffsets": "4188"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "E:\\Projetos\\TesteCovidApp\\app\\build\\intermediates\\res\\merged\\debug\\values-hdpi-v4_values-hdpi-v4.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\pc-gamr\\.gradle\\caches\\transforms-2\\files-2.1\\6c5a1a33c151bf1b1b969a4997bc8337\\appcompat-1.1.0\\res\\values-hdpi-v4\\values-hdpi-v4.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "6",
+                        "endColumns": "13",
+                        "endOffsets": "327"
                     }
                 }
             ]

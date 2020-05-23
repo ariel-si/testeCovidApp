@@ -63,25 +63,6 @@
                     <TextView
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
-                        android:text="Quantos dias de sintomas:" />
-
-                    <EditText
-                        android:layout_width="50dp"
-                        android:layout_height="wrap_content"
-                        android:inputType="number" />
-
-                </LinearLayout>
-
-
-                <LinearLayout
-                    android:layout_width="match_parent"
-                    android:layout_height="match_parent"
-                    android:layout_margin="20dp"
-                    android:orientation="vertical">
-
-                    <TextView
-                        android:layout_width="wrap_content"
-                        android:layout_height="wrap_content"
                         android:text="Febre:" />
 
                     <RadioGroup
@@ -293,6 +274,24 @@
                             android:layout_height="wrap_content"
                             android:text="Raro" />
                     </RadioGroup>
+
+                </LinearLayout>
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:layout_margin="20dp"
+                    android:orientation="vertical">
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="Quantos dias de sintomas:" />
+
+                    <EditText
+                        android:layout_width="50dp"
+                        android:layout_height="wrap_content"
+                        android:inputType="number" />
+
                 </LinearLayout>
 
                 <Button

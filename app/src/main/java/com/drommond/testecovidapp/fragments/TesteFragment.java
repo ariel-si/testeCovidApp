@@ -17,7 +17,7 @@ import com.drommond.testecovidapp.R;
 
 import java.text.DecimalFormat;
 
-public class StatusFragment extends Fragment {
+public class TesteFragment extends Fragment {
 
     RadioGroup radioGroupA, radioGroupB, radioGroupC, radioGroupD, radioGroupE, radioGroupF;
 
@@ -35,11 +35,11 @@ public class StatusFragment extends Fragment {
 
     final DecimalFormat df = new DecimalFormat("0.##");
 
-    public StatusFragment(){
+    public TesteFragment(){
     }
 
-    public static StatusFragment newInstance(String param1, String param2) {
-        StatusFragment fragment = new StatusFragment();
+    public static TesteFragment newInstance(String param1, String param2) {
+        TesteFragment fragment = new TesteFragment();
         Bundle args = new Bundle();
         args.putString(ARG_PARAM1, param1);
         args.putString(ARG_PARAM2, param2);
@@ -199,7 +199,10 @@ public class StatusFragment extends Fragment {
                 covid = covid*95/6;
 
                 new AlertDialog.Builder(getActivity()).setTitle("STATUS DO PACIENTE")
-                        .setMessage("Gripe: "+df.format(gripe)+"%\nResfriado: "+df.format(resfriado)+"%\nCovid-19: "+df.format(covid)+"%").show();
+                        .setMessage("Gripe: "
+                                +df.format(gripe)+"%\nResfriado: "
+                                +df.format(resfriado)+"%\nCovid-19: "
+                                +df.format(covid)+"%").show();
 
             }
         });

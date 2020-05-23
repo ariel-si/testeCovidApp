@@ -40,16 +40,20 @@
         "source": "E:\\Projetos\\TesteCovidApp\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_teste_covid_app_background.png"
     },
     {
-        "merged": "E:\\Projetos\\TesteCovidApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_evitarmaonorosto.png.flat",
-        "source": "E:\\Projetos\\TesteCovidApp\\app\\src\\main\\res\\drawable\\evitarmaonorosto.png"
+        "merged": "E:\\Projetos\\TesteCovidApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_teste.xml.flat",
+        "source": "E:\\Projetos\\TesteCovidApp\\app\\src\\main\\res\\layout\\fragment_teste.xml"
+    },
+    {
+        "merged": "E:\\Projetos\\TesteCovidApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_teste.xml.flat",
+        "source": "E:\\Projetos\\TesteCovidApp\\app\\src\\main\\res\\layout\\activity_teste.xml"
     },
     {
         "merged": "E:\\Projetos\\TesteCovidApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_lista_ongs.xml.flat",
         "source": "E:\\Projetos\\TesteCovidApp\\app\\src\\main\\res\\layout\\fragment_lista_ongs.xml"
     },
     {
-        "merged": "E:\\Projetos\\TesteCovidApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_teste.xml.flat",
-        "source": "E:\\Projetos\\TesteCovidApp\\app\\src\\main\\res\\layout\\activity_teste.xml"
+        "merged": "E:\\Projetos\\TesteCovidApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_evitarmaonorosto.png.flat",
+        "source": "E:\\Projetos\\TesteCovidApp\\app\\src\\main\\res\\drawable\\evitarmaonorosto.png"
     },
     {
         "merged": "E:\\Projetos\\TesteCovidApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_evitaraglomeracao.png.flat",
@@ -160,10 +164,6 @@
         "source": "E:\\Projetos\\TesteCovidApp\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_teste_covid_app.png"
     },
     {
-        "merged": "E:\\Projetos\\TesteCovidApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_status.xml.flat",
-        "source": "E:\\Projetos\\TesteCovidApp\\app\\src\\main\\res\\layout\\fragment_status.xml"
-    },
-    {
         "merged": "E:\\Projetos\\TesteCovidApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_menu_black_24dp.png.flat",
         "source": "E:\\Projetos\\TesteCovidApp\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_menu_black_24dp.png"
     },
@@ -202,5 +202,9 @@
     {
         "merged": "E:\\Projetos\\TesteCovidApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_teste_covid_app_background.png.flat",
         "source": "E:\\Projetos\\TesteCovidApp\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_teste_covid_app_background.png"
+    },
+    {
+        "merged": "E:\\Projetos\\TesteCovidApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_creditos.xml.flat",
+        "source": "E:\\Projetos\\TesteCovidApp\\app\\src\\main\\res\\layout\\activity_creditos.xml"
     }
 ]

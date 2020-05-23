@@ -1603,6 +1603,7 @@ id e2
 id e3
 id editLoginSenha
 id editLoginUsuario
+id editText
 id editTextEmail
 id editTextNome
 id editTextSenha
@@ -1667,6 +1668,7 @@ id listMode
 id list_item
 id masked
 id media_actions
+id menuCreditos
 id menuSair
 id message
 id middle
@@ -1721,6 +1723,11 @@ id pin
 id progress_circular
 id progress_horizontal
 id radio
+id radioButton
+id radioButton2
+id radioGroup
+id radioGroup2
+id radioGroup3
 id right
 id right_icon
 id right_side
@@ -1791,6 +1798,8 @@ id textSpacerNoButtons
 id textSpacerNoTitle
 id textStart
 id textView
+id textView10
+id textView11
 id textView12
 id textView13
 id textView14
@@ -1801,6 +1810,11 @@ id textView18
 id textView19
 id textView2
 id textView20
+id textView21
+id textView22
+id textView23
+id textView24
+id textView25
 id textView3
 id textView4
 id textView5
@@ -1900,6 +1914,7 @@ layout abc_search_dropdown_item_icons_2line
 layout abc_search_view
 layout abc_select_dialog_material
 layout abc_tooltip
+layout activity_creditos
 layout activity_login
 layout activity_main
 layout activity_regiter
@@ -1922,7 +1937,7 @@ layout design_text_input_end_icon
 layout design_text_input_start_icon
 layout fragment_informacao
 layout fragment_lista_ongs
-layout fragment_status
+layout fragment_teste
 layout mtrl_alert_dialog
 layout mtrl_alert_dialog_actions
 layout mtrl_alert_dialog_title
