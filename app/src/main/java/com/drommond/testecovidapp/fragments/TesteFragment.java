@@ -12,7 +12,6 @@ import android.view.ViewGroup;
 import android.widget.Button;
 import android.widget.RadioButton;
 import android.widget.RadioGroup;
-import android.widget.Toast;
 
 import com.drommond.testecovidapp.R;
 
@@ -59,7 +58,7 @@ public class StatusFragment extends Fragment {
 
     @Override
     public View onCreateView(LayoutInflater inflater, ViewGroup container, Bundle savedInstanceState) {
-        final View view = inflater.inflate(R.layout.fragment_status, container, false);
+        final View view = inflater.inflate(R.layout.fragment_teste, container, false);
 
         radioGroupA = view.findViewById(R.id.groupFebre);
         radioGroupB = view.findViewById(R.id.groupCansaco);
